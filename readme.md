@@ -1,1 +1,1 @@
-# Learn about tge Git and github.
+# Learn about the Git and github.
